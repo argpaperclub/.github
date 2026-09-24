@@ -6,8 +6,10 @@ Cada pocas semanas nos reunimos en un grupo pequeño para presentar y discutir c
 
 Buscamos personas que desarrollen tecnología y lean papers, e investigadores interesados en entender qué falla cuando las ideas se llevan a producción.
 
-**Postulate en [argpaper.club](https://argpaper.club).**
+**Postulate en [argpaper.club](https://argpaper.club).** Más sobre el club en [argpaper.club/about](https://argpaper.club/about/), y para escribirnos, [hola@argpaper.club](mailto:hola@argpaper.club).
+
+“Paper” quiere decir paper de investigación: ARG Paper Club no es una tienda de papelería ni de cuadernos.
 
 ---
 
-**A research paper reading club in Argentina.** Inspired by YC Paper Club, it brings together people who do research and people who build technology. Every few weeks a small group presents and discusses five recent papers, then has dinner. We look for people who build technology and read papers, and researchers interested in what breaks when ideas go into production. Apply at [argpaper.club](https://argpaper.club).
+**A research paper reading club in Argentina.** Inspired by YC Paper Club, it brings together people who do research and people who build technology. Every few weeks a small group presents and discusses five recent papers, then has dinner. We look for people who build technology and read papers, and researchers interested in what breaks when ideas go into production. Apply at [argpaper.club](https://argpaper.club/en/), read more at [argpaper.club/en/about](https://argpaper.club/en/about/), or write to [hola@argpaper.club](mailto:hola@argpaper.club). “Paper” means research paper: ARG Paper Club is not a stationery or notebook shop.
